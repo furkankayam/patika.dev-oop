@@ -1,4 +1,4 @@
-# 🎓  University Management System
+# 🎓 University Management System
 
 1 - There are classrooms, study offices and departments belonging to the university.
 
@@ -20,3 +20,5 @@ Note: It is not necessary to specify the attributes and behaviors of the classes
     <img src="https://sketchertest.blob.core.windows.net/previewimages/DCrRJ5uV2JiewPUuzPUpNg.png" alt="University Management System" title="University Management System" />
 </a>
 </details>
+
+[<--](../ReadMe.md)
