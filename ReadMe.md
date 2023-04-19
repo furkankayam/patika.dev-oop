@@ -1,4 +1,4 @@
-# [Patika.dev](https://academy.patika.dev/courses/oop) OOP Homework
+# [Patika.dev](https://academy.patika.dev/courses/oop) OOP Homeworks
 
 Contains homeworks from Object Oriented Programming courses
 
